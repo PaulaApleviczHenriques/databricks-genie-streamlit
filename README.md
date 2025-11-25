@@ -21,5 +21,5 @@ This repository documents our experience and learnings — not as a full tutoria
 
 Created by:
 
-- [@Paulaaplevcz](https://github.com/Paulaaplevcz)
+- [@Paulaaplevcz]([https://github.com/Paulaaplevcz](https://github.com/PaulaApleviczHenriques))
 - [@lmgaglione](https://github.com/lmgaglione)
