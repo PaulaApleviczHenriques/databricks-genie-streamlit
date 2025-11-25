@@ -1,7 +1,7 @@
 # Databricks Genie + Streamlit App Integration
 
 **This project summary is available in two languages:**  
-🇧🇷 [Experiência em português](experiencia-pt.md)  
+🇧🇷 [Experiência em Português](experiencia-pt.md)  
 🇺🇸 [Experience in English](experience-en.md)
 
 ---
